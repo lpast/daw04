@@ -15,7 +15,7 @@ public class daw04 {
 
     public static void main(String[] args) {
         
-        System.out.println("Introduzca un numero porel teclado por favor");
+        System.out.println("Introduzca un numero por favor");
         
         Scanner entrada=new Scanner(System.in);
         
